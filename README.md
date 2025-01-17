@@ -19,7 +19,7 @@ Planned and current features for SOL BULL:
 - [ ] **Telegram Poster**: Post the contract address (CA) in predefined channels after the bot buys in.  
 
 ### Completed  
-- [x] **Pool Filtering**: Filter Raydium pools to trade only in desired categories.  
+- [x] **Pool Filtering**: Filter Raydium pools to trade coins that have a specific pool size.  
 - [x] **Sniping Specific Coins**: Automatically snipe specific contract addresses (CAs) defined in the snipe list once a Raydium pool is created.  
 - [x] **Take Profit and Stop Loss**: Manage trades with automated take-profit and stop-loss settings.  
 ---
