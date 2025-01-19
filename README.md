@@ -1,5 +1,6 @@
 # SOL BULL  
 An advanced automatic trading bot for the Solana blockchain. **SOL BULL** is designed to simplify and enhance your trading experience with powerful features and seamless automation. Progress will be documented here as the project evolves!
+Keep in mind the project is currently in active development, and updates will come along. If you do not know how to do something, you can open up an issue. All contributions are welcome!
 
 ---
 ## Features 🚀  
